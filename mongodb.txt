@@ -1,0 +1,1 @@
+{ insert: "perfcake1", documents: [ {  "no" : @{counter}  } ], writeConcern: { w: 1, j: true } }
